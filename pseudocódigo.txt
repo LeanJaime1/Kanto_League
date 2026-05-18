@@ -1,0 +1,9 @@
+PROYECTO POKEMON
+
+
+1- Una vista de home con un banner de inicio explicando la dinámica del juego y un form para completar los datos del usuario para que pueda ingresar a la "Liga Pokemon"(nombre y ciudad)
+2- Una vez que envía el form ingresa a una pantalla donde va a tener una lista con 42 pokemons para elegir, en esa misma pantalla debería poder ver en la derecha al pokemon seleccionado en grande. En ese mismo lugar va a ver dos opciones: Pelear o ver Información.
+3- En caso de poner "Ver info" se va a redirigir a otra pantalla donde tendremos una img en grande el pokemon seleccionado y toda la información disponible del mismo. Esta misma sección va a estar disponible en la parte de Pokedex.
+4- En caso de elegir pelear se va a otra pantalla donde tendremos dos cards en grande enfrentadas por un "VS", a la izquierda el pokemon elegido y a la derecha un pokemon al azar de la lista de los 42.  En el medio habra un boton de iniciar pelea.
+5- En esta vista se mostrará al ganador, el mismo se va a determinar en un método con un sistema de puntos en los que influye el tipo y debilidad de los pokemon. Debajo un boton de volver a pelear o volver a la home. 
+6- Armar una vista que muestre la información del creador (Nombre y apellido, Edad y Mail).

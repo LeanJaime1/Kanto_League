@@ -1,0 +1,32 @@
+[
+    {
+        "nombre": "home",
+        "titulo": "Liga Pokemon"
+    },
+    {
+        "nombre":"pelea",
+        "titulo":"Pelea"
+    },
+    {
+        "nombre":"pokedex",
+        "titulo":"Pokedex"
+    },
+    {
+        "nombre":"autor",
+        "titulo":"Autor"
+    },
+    {
+        "nombre":"vs",
+        "titulo":"Versus"
+    },
+    {
+        "nombre":"resultado",
+        "titulo":"Resultado de la batalla"
+    },
+    {
+        "nombre":"pokemon",
+        "titulo":"Información del pokemon"
+    }
+
+
+]

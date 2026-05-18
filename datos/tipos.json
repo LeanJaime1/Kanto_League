@@ -1,0 +1,58 @@
+[
+  {
+    "nombre": "Fuego",
+    "debilidades": "Agua, Tierra, Roca"
+  },
+  {
+    "nombre": "Agua",
+    "debilidades": "Electrico, Planta"
+  },
+  {
+    "nombre": "Planta",
+    "debilidades": "Fuego, Hielo, Veneno, Volador, Bicho"
+  },
+  {
+    "nombre": "Electrico",
+    "debilidades": "Tierra"
+  },
+  {
+    "nombre": "Psiquico",
+    "debilidades": "Bicho, Fantasma, Siniestro"
+  },
+  {
+    "nombre": "Tierra",
+    "debilidades": "Agua, Planta, Hielo"
+  },
+  {
+    "nombre": "Lucha",
+    "debilidades": "Volador, Psiquico, Hada"
+  },
+  {
+    "nombre": "Veneno",
+    "debilidades": "Tierra, Psiquico"
+  },
+  {
+    "nombre": "Volador",
+    "debilidades": "Electrico, Hielo, Roca"
+  },
+  {
+    "nombre": "Bicho",
+    "debilidades": "Fuego, Volador, Roca"
+  },
+  {
+    "nombre": "Normal",
+    "debilidades": "Lucha"
+  },
+  {
+    "nombre": "Fantasma",
+    "debilidades": "Fantasma, Siniestro"
+  },
+  {
+    "nombre": "Hada",
+    "debilidades": "Veneno, Acero"
+  },
+  {
+    "nombre": "Dragon",
+    "debilidades": "Hielo, Dragon, Hada"
+  }
+]

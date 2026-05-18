@@ -1,0 +1,86 @@
+/*tipografia*/
+html,
+body,
+p,
+div,
+span,
+a,
+input,
+button,
+select,
+textarea,
+.nav-link,
+.card-title,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+  font-family: "Chakra Petch", sans-serif !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Chakra Petch", sans-serif !important;
+  font-weight: 700 !important;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+/*clases para tipos*/
+.bg-veneno {
+  background-color: #a33ea1 !important;
+  color: white !important;
+}
+
+.bg-fantasma {
+  background-color: #a74d98 !important;
+  color: white !important;
+}
+
+.bg-psiquico {
+  background-color: #f85888 !important;
+  color: white !important;
+}
+
+.bg-hada {
+  background-color: #d685ad !important;
+  color: white !important;
+}
+
+.bg-dragon {
+  background-color: #6f35fc !important;
+  color: white !important;
+}
+
+.bg-brown {
+  background-color: #795548 !important;
+  color: white;
+}
+
+/*vista para el pre*/
+pre {
+  border: thin solid gainsboro;
+  border-radius: 1em;
+  background-color: ghostwhite;
+  margin: 1em;
+  padding: 1em;
+  color: rgb(44, 44, 44);
+  white-space: pre-wrap;
+  /* css-3 */
+  white-space: -moz-pre-wrap;
+  /* Mozilla, since 1999 */
+  white-space: -pre-wrap;
+  /* Opera 4-6 */
+  white-space: -o-pre-wrap;
+  /* Opera 7 */
+  word-wrap: break-word;
+  /* Internet Explorer 5.5+ */
+}
+
+

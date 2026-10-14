@@ -9,7 +9,7 @@ Aplicación web de batallas Pokémon y Pokédex, desarrollada como proyecto de l
 - Pokédex para explorar los Pokémon
 
 ## 🛠️ Tecnologías
-PHP · HTML5 · CSS3 · [JavaScript]
+PHP · HTML5 · CSS3 
 
 
 > Proyecto académico sin fines comerciales. Pokémon y sus personajes son propiedad de sus respectivos dueños.
